@@ -1,6 +1,6 @@
-# Nature Grid
+# Teleportation Vacation
 
-MD Bootstrap 4 practice.
+A mobile-responsive fantasy vacation website to practice my MD Bootstrap 4 skills. (Check out the hover and click effects!)
 
 ## Technologies Used
 
