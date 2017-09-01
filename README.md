@@ -6,5 +6,4 @@ A mobile-responsive fantasy vacation website to practice my MD Bootstrap 4 skill
 
 - HTML5
 - CSS3
-- Bootstrap 4
 - Material Design Bootstrap 4
